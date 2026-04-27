@@ -1,7 +1,7 @@
 _comment: 'DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL'
 meta:
   version: PLCN_v3
-  update_url: ''
+  update_url: 'https://raw.githubusercontent.com/Pascalpex/DeepslateMCEgg/refs/heads/main/deepslatemc-egg.yml'
 exported_at: '2026-04-27T18:05:00+00:00'
 name: DeepslateMC
 author: admin@pascalpex.de
