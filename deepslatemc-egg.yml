@@ -48,7 +48,7 @@ scripts:
           MINECRAFT_VERSION="latest"
       fi
 
-      DOWNLOAD_URL="https://pascalpex.de/files/deepslate/${MINECRAFT_VERSION}/DeepslateMC.jar"
+      DOWNLOAD_URL="https://deepslatemc.de/files/deepslate/${MINECRAFT_VERSION}/DeepslateMC.jar"
 
       cd /mnt/server
 
