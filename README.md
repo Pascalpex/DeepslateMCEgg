@@ -12,6 +12,6 @@ With this egg, you can easily deploy, manage, and run a DeepslateMC server direc
 
 ## 🔗 Important Links
 
-* 💻 **Main Server Software:** [DeepslateMC/Deepslate](https://github.com/Pascalpex/DeepslateMC)
+* 💻 **Main Server Software:** [DeepslateMC/DeepslateMC](https://github.com/DeepslateMC/DeepslateMC)
 * 🌐 **Website & Downloads:** [deepslatemc.de](https://deepslatemc.de)
 * 💬 **Discord Support:** [Join our Community](https://deepslatemc.de/dc)
